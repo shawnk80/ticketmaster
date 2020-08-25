@@ -51,7 +51,7 @@ Here are some __NICE TO HAVES__ from the client. (Not required but if you implem
 8. As an Authenticated User, after searching for artist's concerts I can tag `I want to go` to a specific concert (similar to a `like` button on Facebook or `heart` on Twitter).
 9. As an Authenticated User, I can navigate to dedicated `My Concerts` page that will display a list of concerts I've tagged `I want to go`.
 
-## API Resources
+## Resources
 Look up the available endpoints on [Ticketmaster's Free API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/). Which ones do you need to figure out the next 5 concerts of the artist in question? You'll be making lots of requests and getting lots of responses. Ticketmaster gives you 5000 free calls per day.
 <details>
 <summary>Ticketmaster API Hint </summary>
@@ -59,9 +59,11 @@ Look at the <strong>'keyword'</strong> query parameter.
 </details>
 <br>
 
-Use the [News API](https://newsapi.org/) to search for News articles based off several criteria. Research the available endpoints and `request parameters`. This API has really good documentation and is pretty straight forward.
+Use the [News API](https://newsapi.org/) to search for News articles based off several criteria. Research the available endpoints and `request parameters`. This API has great documentation and is pretty straight forward.
 
 Use the Google Maps Embed API from the lecture to display concert locations.
+
+Use Python's [Request](https://realpython.com/python-requests/) library and know what to do after you get the [Response](https://realpython.com/python-requests/#the-response).
 
 ## How to start?
 __Get organized!__

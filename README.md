@@ -70,7 +70,7 @@ __Get organized!__
 - Have one person in your group create a Github repository on their personal Github and create a template Django Project and push it to the newly created repository.
 - In your repository settings, under `Manage access` invite your Group Members.
 - Other Group Members, DON'T FORK the repository to your own Github, just clone it to your machine so you're all working on the same repository.
-- When working on features, work on seperate branches. Never work directly on the `master` branch. You can add `Branch protection rules` for your repository to prevent you from pushing code straight to the `master` branch.
+- When working on features, work on seperate `branches`. Never work directly on the `master` branch. You can add `Branch protection rules` for your repository to prevent you from pushing code straight to the `master` branch.
 - Look into Trello or another project management tool to stay organized.
 - __Pair Program!__
 

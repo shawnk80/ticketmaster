@@ -17,7 +17,7 @@ Each app has multiple __User Stories__.
 
 # Client Request (Group Project)
 
-You've been contacted by a client to build a new application. They'll pay you **_\$50,000_** to build a Minimum Viable Product (MVP) over the next 4 days. If all goes well, they want to hire you and your team to continue building out the application for 6 months and have a budget of **_\$400,000_**, which will go to you and your team.
+You've been contacted by a client to build a new application. They'll pay you **_\$50,000_** to build a Minimum Viable Product (MVP) over the next 4 days. If all goes well, they want to hire you and your team to continue building out the application for 6 months. They have a budget of **_\$400,000_**, which will go to you and your team.
 
 ### High Level Overview from the client
 

@@ -59,7 +59,7 @@ Look at the <strong>'keyword'</strong> query parameter.
 </details>
 <br>
 
-Use the [News API](https://newsapi.org/) to search for News articles based off several criteria. Research the available endpoints and `request parameters`. This API has great documentation and is pretty straight forward.
+Use the [News API](https://newsapi.org/) to search for News articles based off several criteria. Research the available endpoints and `request parameters`. This API has great documentation and is pretty straight forward. (NOTE: You DON'T need to use a Client Library!)
 
 Use the Google Maps Embed API from the lecture to display concert locations.
 

@@ -23,7 +23,7 @@ You've been contacted by a client to build a new application. They'll pay you **
 
 Your client would like to build an application which allows users to search for concerts and news.
 
-![](https://github.com/mikeplatoon/curriculum/blob/master/week-07/lecture_resources/concerts_and_news_app.gif)
+![](https://github.com/oscarplatoon/curriculum/blob/master/page-resources/concerts_and_news_app.gif)
 
 Here are some __MUST HAVES__ from the client regarding the functionality of the MVP. (Required functionality)
 1. Must be able to search artist's concerts.
